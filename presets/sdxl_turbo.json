@@ -46,7 +46,8 @@
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
         "sd_xl_turbo_1.0_fp16.safetensors": "https://huggingface.co/stabilityai/sdxl-turbo/resolve/main/sd_xl_turbo_1.0_fp16.safetensors",
-        "sd_xl_refiner_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
+        "sd_xl_refiner_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors",
+        "alene_lora.safetensors": "https://huggingface.co/erivandons/sd_xl_turbo_1.0_fp16/resolve/main/alene_lora.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
