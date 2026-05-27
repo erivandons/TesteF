@@ -57,7 +57,8 @@
         "alene_lora.safetensors": "https://huggingface.co/erivandons/sd_xl_turbo_1.0_fp16/resolve/main/alene_lora.safetensors",
         "joana1_lora.safetensors": "https://huggingface.co/erivandons/sd_xl_turbo_1.0_fp16/blob/main/joana1_lora.safetensors",
         "cloegreco05_lora.safetensors": "https://huggingface.co/erivandons/sd_xl_turbo_1.0_fp16/blob/main/cloegreco-05.safetensors",
-        "cloegreco03_lora.safetensors": "https://huggingface.co/erivandons/sd_xl_turbo_1.0_fp16/blob/main/cloegreco-03.safetensors"
+        "cloegreco03_lora.safetensors": "https://huggingface.co/erivandons/sd_xl_turbo_1.0_fp16/blob/main/cloegreco-03.safetensors",
+        "alene-10_lora.safetensors": "https://huggingface.co/erivandons/sd_xl_turbo_1.0_fp16/blob/main/alene-10.safetensors"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
